@@ -1,0 +1,12 @@
+{
+    "name": "rionaldy/utsweb",
+    "authors": [
+        { 
+            "name": "rionaldy",
+            "email": "rionaldy70@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
