@@ -1,7 +1,7 @@
 <?php
 class Koneksi{
   private $server="localhost";
-  private $username="	id4892559_dev1";
+  private $username="id4892559_dev1";
   private $password = "adelia99";
   private $db = "id4892559_mahasiswa";
   private $hubungan;
